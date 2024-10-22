@@ -27,7 +27,7 @@ En el archivo natalia.conf, debemos configurar varios parámetros para nuestro s
  
 Creamos un fichero docker-compose. Debe de lucir de la siguiente forma:
 
-<img src="imgs/dockerCompose.png">
+<img src="imgs/dockercompose.png">
  
 Debemos tener una carpeta scripts con nuestro fichero entrypoint.sh
 
